@@ -9,21 +9,6 @@ Application created in React Native built on Rocketseat's Ignite Lab for creatin
 Project created with Expo.[ See official docs](https://docs.expo.dev/get-started/installation/) to set up the environment.
 
 
-### Run
-
-**Install dependencies**
-
-```
-yarn
-```
-
-**Run Android**
-
-```
-yarn android
-```
-
-
 ### 🛠 Tech and Libraries
 
 - [React Native](https://reactnative.dev/)
