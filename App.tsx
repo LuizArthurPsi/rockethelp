@@ -8,7 +8,6 @@ import {
 import { NativeBaseProvider, StatusBar } from 'native-base';
 import { THEME } from './src/styles/theme';
 
-import { Home } from './src/screens/Home';
 import { Loading } from './src/components/Loading';
 import { Routes } from './src/routes';
 
